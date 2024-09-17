@@ -1,4 +1,4 @@
-(https://github-readme-stats.vercel.app/api?username=matheusandretti)](https://github.com/anuraghazra/github-readme-stats&theme-radical)
+(https://github-readme-stats.vercel.app/api?username=matheusandretti&theme-radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Olá! Eu sou Matheus Andretti.
 
