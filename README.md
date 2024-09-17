@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusandretti)](https://github.com/anuraghazra/github-readme-stats&theme-radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusandretti&theme-radical)](https://github.com/anuraghazra/github-readme-stats&theme-radical)
 
 # Olá! Eu sou Matheus Andretti.
 
