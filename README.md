@@ -1,19 +1,28 @@
-## Hi
+# Olá! Eu sou Matheus Andretti 👋
 
-<!--
-**matheusandretti/matheusandretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou buscando oportunidades para iniciar minha carreira como desenvolvedor **back-end** e **mobile**. Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre expandindo meus conhecimentos nas principais tecnologias da área.
 
-Here are some ideas to get you started:
+## 🚀 Objetivos
+- Desenvolver soluções robustas como **desenvolvedor back-end**.
+- Criar e implementar **aplicações mobile** que tragam impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias que estou aprendendo
+- **Kotlin**: Para desenvolvimento de aplicações Android.
+- **Javascript**: Explorando seu uso tanto no front-end quanto no back-end.
+- **Python**: Linguagem versátil com foco em automação e desenvolvimento de sistemas.
+- **HTML & CSS**: Para criação de páginas web modernas e responsivas.
+
+## 📚 Atualmente focado em:
+- Aprofundar meus conhecimentos em desenvolvimento mobile com **Kotlin**.
+- Aprender práticas de desenvolvimento back-end utilizando **Python** e **Javascript**.
+- Melhorar minhas habilidades em **HTML/CSS** para construção de interfaces.
+
+## 📈 Estatísticas do GitHub
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandretti&layout=compact&theme=dracula)
 
+## 📫 Vamos nos conectar!
+- [LinkedIn](https://www.linkedin.com/in/matheus-andretti/)
+- Email: andrettiguermo@gmail.com
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado!
