@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?matheusandretti=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 # Olá! Eu sou Matheus Andretti.
 
 Atualmente, estou buscando oportunidades para iniciar minha carreira como desenvolvedor **back-end** e **mobile**. Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre expandindo meus conhecimentos nas principais tecnologias da área. Estou buscando oportunidades para me especializar nessas áreas e expandir meu conhecimento, aplicando o que estou aprendendo em projetos práticos.
