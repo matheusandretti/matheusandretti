@@ -19,7 +19,7 @@ Atualmente, estou buscando oportunidades para iniciar minha carreira como desenv
 - Aprender práticas de desenvolvimento back-end utilizando **Javascript**.
 - Melhorar minhas habilidades em **HTML/CSS** para construção de interfaces.
 
-##💼 **Ainda construindo meu portfólio**
+## 💼Ainda construindo meu portfólio
 
 Por enquanto, meus projetos são parte das atividades universitárias. Estou animado para, em breve, desenvolver projetos próprios e compartilhar aqui!
 
