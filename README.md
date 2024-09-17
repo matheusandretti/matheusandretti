@@ -20,7 +20,7 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/DouglasSRM">
+  <a href="https://github.com/matheusandretti">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusandretti&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
     <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandretti&layout=compact&theme=default"/>
 </div>
