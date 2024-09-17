@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusandretti&theme-radical)](https://github.com/anuraghazra/github-readme-stats&theme-radical)
-
 # Olá! Eu sou Matheus Andretti.
 
 Atualmente, estou buscando oportunidades para iniciar minha carreira como desenvolvedor **back-end** e **mobile**. Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre expandindo meus conhecimentos nas principais tecnologias da área. Estou buscando oportunidades para me especializar nessas áreas e expandir meu conhecimento, aplicando o que estou aprendendo em projetos práticos.
@@ -27,8 +25,12 @@ Por enquanto, meus projetos são parte das atividades universitárias. Estou ani
 
 ## 📈 Estatísticas do GitHub
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandretti&layout=compact&theme=dracula)
+<div align="Center">
 
+<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=matheusandretti&theme=radical&include_all_commits=true"/)
+<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandretti&layout=compact&theme=radical"/)
+
+</div>
 ## 📫 **Contato**:
 - [LinkedIn](https://www.linkedin.com/in/matheus-andretti/)
 - Email: andrettiguermo@gmail.com
