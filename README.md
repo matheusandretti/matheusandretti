@@ -25,3 +25,5 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
     <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandretti&layout=compact&theme=default"/>
 </div>
 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
