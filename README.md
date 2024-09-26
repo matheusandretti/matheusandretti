@@ -14,5 +14,5 @@ Por enquanto, meus projetos são parte das atividades universitárias. Estou ani
 <div align="center">
   <a href="https://github.com/matheusandretti">
     <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusandretti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandretti&langs_count=8&layout=compact&theme=dark"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandretti&langs_count=6&layout=compact&theme=dark"/>
 </div>
